@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Cd3Jlo5MvbinmjL6KclFfkQcb2r22iMcLq/8rQpwM07R1vDGT7WNjqF8z92IvW5AofZRZJpXY3D8ONzbMeGIFQ==",
+  "dgSpecHash": "QPP9KAV6qNmEW8c4Qef6AvtPGoL8WramASsUvwRkKPwlbj7KNNOxN831s3knnFCJ6h5Hrum2C29kWCdW1bwvuQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\tteea\\Desktop\\Projects\\multitool\\multitool\\multitool.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\tteea\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
   "logs": []
 }

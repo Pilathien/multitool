@@ -1,0 +1,17 @@
+C:\Users\tteea\Desktop\Projects\multitool\multitool\bin\Debug\net6.0\multitool.exe
+C:\Users\tteea\Desktop\Projects\multitool\multitool\bin\Debug\net6.0\multitool.deps.json
+C:\Users\tteea\Desktop\Projects\multitool\multitool\bin\Debug\net6.0\multitool.runtimeconfig.json
+C:\Users\tteea\Desktop\Projects\multitool\multitool\bin\Debug\net6.0\multitool.dll
+C:\Users\tteea\Desktop\Projects\multitool\multitool\bin\Debug\net6.0\multitool.pdb
+C:\Users\tteea\Desktop\Projects\multitool\multitool\obj\Debug\net6.0\multitool.csproj.AssemblyReference.cache
+C:\Users\tteea\Desktop\Projects\multitool\multitool\obj\Debug\net6.0\multitool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tteea\Desktop\Projects\multitool\multitool\obj\Debug\net6.0\multitool.AssemblyInfoInputs.cache
+C:\Users\tteea\Desktop\Projects\multitool\multitool\obj\Debug\net6.0\multitool.AssemblyInfo.cs
+C:\Users\tteea\Desktop\Projects\multitool\multitool\obj\Debug\net6.0\multitool.csproj.CoreCompileInputs.cache
+C:\Users\tteea\Desktop\Projects\multitool\multitool\obj\Debug\net6.0\multitool.dll
+C:\Users\tteea\Desktop\Projects\multitool\multitool\obj\Debug\net6.0\refint\multitool.dll
+C:\Users\tteea\Desktop\Projects\multitool\multitool\obj\Debug\net6.0\multitool.pdb
+C:\Users\tteea\Desktop\Projects\multitool\multitool\obj\Debug\net6.0\multitool.genruntimeconfig.cache
+C:\Users\tteea\Desktop\Projects\multitool\multitool\obj\Debug\net6.0\ref\multitool.dll
+C:\Users\tteea\Desktop\Projects\multitool\multitool\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\tteea\Desktop\Projects\multitool\multitool\obj\Debug\net6.0\multitool.csproj.CopyComplete
